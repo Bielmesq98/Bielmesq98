@@ -1,7 +1,7 @@
 it('Test API Login', () => {
 
  // teste desktop agora vai up up
-
+// esta carregando  e nao para
  // teste
 
     cy.request({
