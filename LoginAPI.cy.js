@@ -1,6 +1,6 @@
 it('Test API Login', () => {
 
-
+//beater test case
     cy.request({
         method: 'POST',
         url: 'http://localhost:50/winthor/autenticacao/v1/login',
