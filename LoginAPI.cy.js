@@ -1,9 +1,5 @@
 it('Test API Login', () => {
 
- // teste desktop agora vai up up
-// esta carregando  e nao para
- // teste
-// acho que saquei 
 
     cy.request({
         method: 'POST',
