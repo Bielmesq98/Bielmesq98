@@ -11,6 +11,8 @@ it('Testar User&Senha', () => {
     });
 })
 
+
+
 function LoginAPI(User,Senha) {
     cy.get(':nth-child(2) >.login-wrapper__control__inpupt').type(User)
     cy.get(':nth-child(3) >.login-wrapper__control__inpupt').type(Senha)
